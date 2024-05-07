@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iuliaGrig
+- 👋 Hi, I’m @iuliaGrig, born in Romania, in Canada since October 2011
 - 👀 I’m interested in aviation, chemistry and programming
 - 🌱 I’m currently learning front end engineering and studying pure and applied sciences in CEGEP
 - 💞️ I’m looking to collaborate on anything with HTML, CSS, JS or Ruby
